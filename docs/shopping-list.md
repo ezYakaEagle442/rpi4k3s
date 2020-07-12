@@ -44,8 +44,14 @@ https://www.conrad.nl/p/universeel-gereedschapskoffer-zonder-inhoud-basetech-131
 https://www.cdiscount.com/bricolage/amenagement-atelier/mallette-etanche-350-x-295-x-150-mm-basetech-13102/f-1660404-bas4016138960099.html#mpos=0|mp (64 €)
 
 
-- 2x - Opaque/Dark Plexiglas/Plastic 30cm x 20cm (for mounting the Pi's and Screen & LED's)  
-  
+- 2x - Opaque/Dark Plexiglass/Plastic 30cm x 20cm (for mounting the Pi's and Screen & LED's)  
+https://www.ebay.fr/itm/1-4-Black-Acrylic-Plexiglas-Plastic-Sheet-8-x-12-For-DIY-Craft/264251149339 (13$)
+
+https://www.ebay.fr/itm/Plexiglas-Predecoupe-Gris-Fonce-Transp-GS-5-MM-/162900381757 (15,54€)
+
+https://www.cdiscount.com/maison/art-de-la-table/une-feuille-de-plexiglas-acrylique-noire-2025-3/f-11790-auc0001066664847.html?idOffre=381223861#mpos=0|mp (52€)
+
+
 - Strong Velcro (for mounting components)  
 https://www.conrad.nl/p/tesa-on-off-55229-00-01-klittenband-om-vast-te-plakken-haak-en-lusdeel-extra-sterk-l-x-b-1000-mm-x-50-mm-zwart-1-s-546887?WT.mc_id=gshop&gclid=Cj0KCQiA7aPyBRChARIsAJfWCgLEcS1wBj_JcCGlNRCYhwnPJhIA7AIMhkRe_ID_Tt7UgaBbJBoDqL0aAlJCEALw_wcB&tid=1457103019_71473162759_aud-383852685358:pla-775116211808_pla-546887&WT.srch=1&vat=true&insert_kz=8J (15,49€)
 
