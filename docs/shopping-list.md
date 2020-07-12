@@ -4,34 +4,43 @@ The product links are the ones I used for here in the Netherlands. Some websites
 ### Power
 - 1x - Anker PowerPort 10  
 https://www.conrad.nl/p/anker-powerport-10-a2133311-usb-laadstation-thuis-uitgangsstroom-max-12000-ma-10-x-usb-1672845
+
 https://www.cdiscount.com/informatique/clavier-souris-webcam/anker-powerport-10-chargeur-60w-10-ports-usb-cha/f-107023705-ank0848061090024.html?idOffre=408577274#mpos=0|mp (64,31€)
 
 - 6x - USB-C Cable 3.0A - 0,5m  
 https://www.sossolutions.nl/usb-c-kabel-3-0a-space-grey-nylon-sleeve
+
 https://www.cdiscount.com/telephonie/accessoires-portable-gsm/juce-r-0-5m-cable-usb-type-c-a-usb-3-0-charge-rap/f-1442025-auc5862562257279.html#mpos=0|mp (8,96€)
 
 - 6x - USB-C Angled Adapter  
 https://www.allekabels.nl/usb-30-kabel/4545/2269207/usb-30-c-verloopstekker.html
+
 https://www.cdiscount.com/informatique/composants-informatiques/lot-de-2-adaptateur-usb-c-type-c-male-vers-femell/f-107130601-auc2008888288594.html#mpos=0|mp (7,56€ the pack of 2)
 
 ### Network
 - 1x - D-Link GO-SW-8G 8 port 1 Gbit/s Switch  
 https://www.conrad.nl/p/d-link-go-sw-8g-netwerk-switch-8-poorten-1-gbits-989987
+
 D-LINK GO-SW-8G/E Switch https://www.cdiscount.com/informatique/materiel-reseau-wifi-internet-bluetooth/d-link-go-sw-8g-e/f-1071522-dli7900693656900.html#desc (29,9 €)
 
 - 6x - Angled Ethernet cables - 0,5m  
 https://www.allekabels.nl/netwerk-kabel/191/1285767/uutp-kabel-cat-5e-haaks.html
+
 https://www.manomano.fr/catalogue/p/bematik-cable-de-reseau-de-categorie-6-cat6-rj45-angle-droit-ftp-24awg-lan-de-50-cm-13322624 (3,99€)
+
 https://www.cdiscount.com/informatique/composants-informatiques/cat5e-cuivre-rj45-droit-vers-droit-angle-fiche-en/f-107130602-auc5055383483594.html#mpos=0|mp (1,96€)
 
 - 1x - USB-A to Type-M Cable (to power the switch)  
 https://www.kabeldirect.nl/startech-usb-naar-5-5-mm-voedingskabel-type-m-connector-91-cm.html?utm_source=daisycon&utm_medium=affiliate&utm_term=StarTech%20USB%20naar%205,5%20mm%20voedingskabel%20-%20type%20M%20connector%20-%2091%20cm&utm_campaign= (3,52€)
+
 https://www.manomano.fr/p/lindy-usb-20-cable-de-raccordement-15-m-noir-14160791 (2,77€)
+
 https://www.cdiscount.com/informatique/cables-connectiques/3-ft-usb-a-type-m-barrel-5v/f-1072013-sta0065030839723.html?idOffre=279951229 (18,48 €)
 
 ### Travel case 
 - 1x - Basetech IP67 1310219 Travel case  
 https://www.conrad.nl/p/universeel-gereedschapskoffer-zonder-inhoud-basetech-1310219-l-x-b-x-h-350-x-295-x-150-mm-1310219 (35€)
+
 https://www.cdiscount.com/bricolage/amenagement-atelier/mallette-etanche-350-x-295-x-150-mm-basetech-13102/f-1660404-bas4016138960099.html#mpos=0|mp (64 €)
 
 
@@ -39,18 +48,22 @@ https://www.cdiscount.com/bricolage/amenagement-atelier/mallette-etanche-350-x-2
   
 - Strong Velcro (for mounting components)  
 https://www.conrad.nl/p/tesa-on-off-55229-00-01-klittenband-om-vast-te-plakken-haak-en-lusdeel-extra-sterk-l-x-b-1000-mm-x-50-mm-zwart-1-s-546887?WT.mc_id=gshop&gclid=Cj0KCQiA7aPyBRChARIsAJfWCgLEcS1wBj_JcCGlNRCYhwnPJhIA7AIMhkRe_ID_Tt7UgaBbJBoDqL0aAlJCEALw_wcB&tid=1457103019_71473162759_aud-383852685358:pla-775116211808_pla-546887&WT.srch=1&vat=true&insert_kz=8J (15,49€)
+
 https://www.manomano.fr/p/bande-extra-forte-1m-x-50mm-noir-6431491 (20,60€)
 
 
 ### Raspberry Pi's
 - 6x - Raspberry Pi 4B - 4GB  
 https://www.sossolutions.nl/raspberry-pi-4-model-b-4gb
+
 https://thepihut.com/products/raspberry-pi-4-model-b?variant=31994565689406 ( £ 74)
+
 https://www.kubii.fr/cartes-raspberry-pi/2955-raspberry-pi-4-modele-b-8gb-0765756931199.html (83,95 €)
 
 
 - 6x - Dual Fan Heat sink  
 https://www.kiwi-electronics.nl/kw-2546?search=cooling&description=true
+
 5V Fan for Raspberry Pi https://thepihut.com/products/miniature-5v-cooling-fan-for-raspberry-pi-and-other-computers (£3)
 
 ### Storage
@@ -59,14 +72,19 @@ https://www.tinytronics.nl/shop/nl/raspberry-pi/sd-kaarten/sandisk-ultra-32gb-cl
 
 - 1x SanDisk Extreme Portable SSD 500GB  
 https://www.coolblue.nl/product/806854/sandisk-extreme-portable-ssd-500gb.html?utm_source=vanessa&utm_medium=mail&utm_campaign=notspecified (90€)
+
 https://www.cdiscount.com/informatique/ssd/sandisk-extreme-disque-flash-ssd-portable-500-go/f-10703-san7061281648322.html (95€)
+
 https://www.manomano.fr/catalogue/p/sandisk-extreme-500go-gris-orange-sdssde60-500g-g25-17097664?model_id=17097481 (172 €)
 
 ### Input
 - 1x - Wireless Keyboard & Mouse  
 https://www.tinytronics.nl/shop/index.php?route=product/product&product_id=1504
+
 FR Keyboard (17,95 €) https://www.kubii.fr/raspberry-pi-microbit/2572-clavier-officiel-raspberry-pi-azerty-kubii-3272496015333.html
+
 wired mouse (8,5 €) https://www.kubii.fr/claviers-et-peripheriques-usb/2575-souris-filaire-officielle-raspberry-pi-kubii-3272496015364.html
+
 
 - 1x - Red Power Reset Button  
 https://www.tinytronics.nl/shop/nl/componenten/schakelaars/rode-drukknop-12mm-reset-pbs-33b
@@ -75,19 +93,24 @@ https://www.tinytronics.nl/shop/nl/componenten/schakelaars/rode-drukknop-12mm-re
 
 - 1x - Waveshare 7 inch HDMI TFT-LCD Touchscreen  
 https://www.tinytronics.nl/shop/index.php?route=product/product&product_id=1758
+
 ETEPON for Raspberry Pi 4 screen, IPS HDMI 7 inchs Monitor - LCD screen 1024 * 600 HD (90€): https://www.cdiscount.com/informatique/ecrans-informatiques/etepon-pour-ecran-raspberry-pi-4-moniteur-tactile/f-10732-auc8414768789121.html#desc
 
 - 2x - HDMI to Micro HDMI cable (one in the case and one for external testing)  
 https://www.tinytronics.nl/shop/nl/kabels/hdmi/hdmi-naar-micro-hdmi-kabel-2m
+
 https://www.cdiscount.com/high-tech/accessoires/cable-adaptateur-cd44587/f-1062802-auc5412810144587.html?idOffre=314083798#mpos=0|mp (7,29 €)
 
 - 6x - Pimodori Blinkt 8x RGB Leds  
 https://www.kiwi-electronics.nl/blinkt-voor-raspberry-pi?search=blinkt&description=true (7,5€)
+
 https://thepihut.com/products/blinkt (£6)
 
 - 3x - Female/Male 'Extension' Jumper Wires 40 pin - 30cm (or whatever cable length you need)  
 https://www.sossolutions.nl/824-premium-femalemale-extension-jumper-wires-40-x-12-300mm
+
 https://www.cdiscount.com/bricolage/electricite/fils-electriques-torons-conducteurs-31-cm-de-l/f-1661416-auc6439374938864.html#mpos=0|mp (16,96€)
+
 https://thepihut.com/collections/adafruit-prototyping/products/premium-female-male-extension-jumper-wires-20-x-12
 
 - 6x - 40 Pins header connector 2x20p  
