@@ -46,6 +46,10 @@ See [https://www.raspberrypi.org/documentation/configuration/camera.md](https://
 - [https://github.com/Sheldonwl/rpi-travel-case](https://github.com/Sheldonwl/rpi-travel-case)
 - [https://doingdata.cloud/2020/05/24/how-to-k3s-on-raspberry-pi](https://doingdata.cloud/2020/05/24/how-to-k3s-on-raspberry-pi)
 - [https://opensource.com/article/20/3/kubernetes-raspberry-pi-k3s](https://opensource.com/article/20/3/kubernetes-raspberry-pi-k3s)
+- [https://blog.alexellis.io/visiting-pimoroni](https://blog.alexellis.io/visiting-pimoroni)
 - [https://blog.alexellis.io/raspberry-pi-homelab-with-k3sup](https://blog.alexellis.io/raspberry-pi-homelab-with-k3sup)
+- [https://www.jeffgeerling.com/blog/2019/raspberry-pi-4-needs-fan-heres-why-and-how-you-can-add-one](https://www.jeffgeerling.com/blog/2019/raspberry-pi-4-needs-fan-heres-why-and-how-you-can-add-one)
+- [https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-blinkt](https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-blinkt)
+- [https://raspberrytips.com/install-heat-sinks-raspberry-pi](https://raspberrytips.com/install-heat-sinks-raspberry-pi)
 
  
