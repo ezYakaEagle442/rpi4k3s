@@ -154,6 +154,8 @@ https://www.allekabels.nl/usb-verlengkabel/4965/1174323/usb-20-verlengkabel.html
 - Cluster Case for Raspberry Pi (with Fans)  £ 10 https://thepihut.com/collections/raspberry-pi-cases/products/cluster-case-for-raspberry-pi
 - Raspberry Pi HAT Mounting Kit (11mm) (£ 1.49) https://thepihut.com/products/raspberry-pi-hat-mounting-kit
 - Pi Cam (56,80 €) https://www.kubii.fr/raspberry-pi-microbit/2950-camera-hq-officielle-3272496301474.html
+- Pi Cam TriPod (£4) https://thepihut.com/products/flexible-camera-tripod 
+- ModMyPi Mini Camera Mount (£3) https://thepihut.com/products/modmypi-mini-camera-stand-no-lens 
 - USB Hub adaptor: https://www.cdiscount.com/informatique/clavier-souris-webcam/usb-c-hub-adaptateur-de-type-c-7-dans-une-station/f-107023705-auc0797772759440.html#mpos=0|mp (16,63€)
 - HDMI 1,5m cable: https://www.cdiscount.com/high-tech/accessoires/continental-edison-cable-hdmi-2-0-1-5m-slim-4k-u/f-106280201-cehdmi150f14.html#mpos=0|cd (4,10 €)
 - Aluminium Raspberry Pi 4 Case  https://thepihut.com/collections/raspberry-pi-cases/products/aluminium-raspberry-pi-4-case?variant=31068306440254
