@@ -43,6 +43,7 @@ https://www.conrad.nl/p/universeel-gereedschapskoffer-zonder-inhoud-basetech-131
 
 https://www.cdiscount.com/bricolage/amenagement-atelier/mallette-etanche-350-x-295-x-150-mm-basetech-13102/f-1660404-bas4016138960099.html#mpos=0|mp (64 €)
 
+https://www.ebay.fr/itm/Valise-doutillage-non-equipee-Basetech-IP67-1310218-universelle-L-x-l-x-h-240/333635101188?hash=item4dae33a204:g:CzIAAOSw7Rle9Evi (29€)
 
 - 2x - Opaque/Dark Plexiglass/Plastic 30cm x 20cm (for mounting the Pi's and Screen & LED's)  
 https://www.ebay.fr/itm/1-4-Black-Acrylic-Plexiglas-Plastic-Sheet-8-x-12-For-DIY-Craft/264251149339 (13$)
