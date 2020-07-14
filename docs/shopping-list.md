@@ -33,11 +33,13 @@ https://www.cdiscount.com/informatique/composants-informatiques/cat5e-cuivre-rj4
 - 1x - USB-A to Type-M Cable (to power the switch)  
 https://www.kabeldirect.nl/startech-usb-naar-5-5-mm-voedingskabel-type-m-connector-91-cm.html?utm_source=daisycon&utm_medium=affiliate&utm_term=StarTech%20USB%20naar%205,5%20mm%20voedingskabel%20-%20type%20M%20connector%20-%2091%20cm&utm_campaign= (3,52€)
 
-https://www.manomano.fr/p/lindy-usb-20-cable-de-raccordement-15-m-noir-14160791 (2,77€)
+https://fr.rs-online.com/web/p/cables-usb/1862796/ (4,5)
 
 https://www.inmac-wstore.com/startech-com-cable-d-alimentation-usb-vers-prise-dc-de-91-cm-cordon-usb-vers-connecteur-type-m-5v-cable-d-alimentation-91-cm/p7044202.htm (5,70€)
 
 https://www.cdiscount.com/informatique/cables-connectiques/3-ft-usb-a-type-m-barrel-5v/f-1072013-sta0065030839723.html?idOffre=279951229 (18,48 €)
+
+https://www.manomano.fr/p/lindy-usb-20-cable-de-raccordement-15-m-noir-14160791 (2,77€)
 
 
 ### Travel case 
