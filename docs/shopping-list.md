@@ -35,7 +35,10 @@ https://www.kabeldirect.nl/startech-usb-naar-5-5-mm-voedingskabel-type-m-connect
 
 https://www.manomano.fr/p/lindy-usb-20-cable-de-raccordement-15-m-noir-14160791 (2,77€)
 
+https://www.inmac-wstore.com/startech-com-cable-d-alimentation-usb-vers-prise-dc-de-91-cm-cordon-usb-vers-connecteur-type-m-5v-cable-d-alimentation-91-cm/p7044202.htm (5,70€)
+
 https://www.cdiscount.com/informatique/cables-connectiques/3-ft-usb-a-type-m-barrel-5v/f-1072013-sta0065030839723.html?idOffre=279951229 (18,48 €)
+
 
 ### Travel case 
 - 1x - Basetech IP67 1310219 Travel case  
@@ -81,6 +84,8 @@ https://www.tinytronics.nl/shop/nl/raspberry-pi/sd-kaarten/sandisk-ultra-32gb-cl
 https://www.coolblue.nl/product/806854/sandisk-extreme-portable-ssd-500gb.html?utm_source=vanessa&utm_medium=mail&utm_campaign=notspecified (90€)
 
 https://www.cdiscount.com/informatique/ssd/sandisk-extreme-disque-flash-ssd-portable-500-go/f-10703-san7061281648322.html (95€)
+
+https://www.inmac-wstore.com/sandisk-extreme-disque-ssd-500-go-usb-3-1-gen-2/p7154164.htm (108 €)
 
 https://www.manomano.fr/catalogue/p/sandisk-extreme-500go-gris-orange-sdssde60-500g-g25-17097664?model_id=17097481 (172 €)
 
