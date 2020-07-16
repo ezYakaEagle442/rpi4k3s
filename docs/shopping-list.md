@@ -53,6 +53,10 @@ https://www.ebay.fr/itm/Valise-doutillage-non-equipee-Basetech-IP67-1310218-univ
 - 2x - Opaque/Dark Plexiglass/Plastic 30cm x 20cm (for mounting the Pi's and Screen & LED's)  
 https://www.ebay.fr/itm/1-4-Black-Acrylic-Plexiglas-Plastic-Sheet-8-x-12-For-DIY-Craft/264251149339 (13$)
 
+https://fr.aliexpress.com/item/32995121757.html?spm=a2g0w.search0303.3.317.56ec7824OiJl6G&ws_ab_test=searchweb0_0,searchweb201602_0,searchweb201603_0,ppcSwitch_0&algo_pvid=4633806f-0efc-43e7-b208-dc9f8023f082&algo_expid=4633806f-0efc-43e7-b208-dc9f8023f082-47 (sizing format A4 20x30cm , 8mm , 15€)
+
+https://www.ebay.fr/itm/1-4-Black-Acrylic-Plexiglas-Plastic-Sheet-8-x-12-For-DIY-Craft/264251149339 (13$ but delivery in US only)
+
 https://www.ebay.fr/itm/Plexiglas-Predecoupe-Gris-Fonce-Transp-GS-5-MM-/162900381757 (15,54€)
 
 https://www.cdiscount.com/maison/art-de-la-table/une-feuille-de-plexiglas-acrylique-noire-2025-3/f-11790-auc0001066664847.html?idOffre=381223861#mpos=0|mp (52€)
