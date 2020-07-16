@@ -5,6 +5,8 @@ The product links are the ones I used for here in the Netherlands. Some websites
 - 1x - Anker PowerPort 10  
 https://www.conrad.nl/p/anker-powerport-10-a2133311-usb-laadstation-thuis-uitgangsstroom-max-12000-ma-10-x-usb-1672845
 
+https://www.ebay.fr/itm/Anker-PowerPort-10-Chargeur-60W-10-Ports-USB-Secteur-vers-pour-Portables/223379300219?hash=item3402719f7b%3Ag%3A-VcAAOSwF8BcXww8&LH_ItemCondition=3 (43€)
+
 https://www.cdiscount.com/informatique/clavier-souris-webcam/anker-powerport-10-chargeur-60w-10-ports-usb-cha/f-107023705-ank0848061090024.html?idOffre=408577274#mpos=0|mp (64,31€)
 
 - 6x - USB-C Cable 3.0A - 0,5m  
@@ -48,12 +50,10 @@ https://www.conrad.nl/p/universeel-gereedschapskoffer-zonder-inhoud-basetech-131
 
 https://www.cdiscount.com/bricolage/amenagement-atelier/mallette-etanche-350-x-295-x-150-mm-basetech-13102/f-1660404-bas4016138960099.html#mpos=0|mp (64 €)
 
-https://www.ebay.fr/itm/Valise-doutillage-non-equipee-Basetech-IP67-1310218-universelle-L-x-l-x-h-240/333635101188?hash=item4dae33a204:g:CzIAAOSw7Rle9Evi (29€)
-
 - 2x - Opaque/Dark Plexiglass/Plastic 30cm x 20cm (for mounting the Pi's and Screen & LED's)  
 https://www.ebay.fr/itm/1-4-Black-Acrylic-Plexiglas-Plastic-Sheet-8-x-12-For-DIY-Craft/264251149339 (13$)
 
-https://fr.aliexpress.com/item/32995121757.html?spm=a2g0w.search0303.3.317.56ec7824OiJl6G&ws_ab_test=searchweb0_0,searchweb201602_0,searchweb201603_0,ppcSwitch_0&algo_pvid=4633806f-0efc-43e7-b208-dc9f8023f082&algo_expid=4633806f-0efc-43e7-b208-dc9f8023f082-47 (sizing format A4 20x30cm , 8mm , 15€)
+https://fr.aliexpress.com/item/32995121757.html?spm=a2g0w.search0303.3.317.56ec7824OiJl6G&ws_ab_test=searchweb0_0,searchweb201602_0,searchweb201603_0,ppcSwitch_0&algo_pvid=4633806f-0efc-43e7-b208-dc9f8023f082&algo_expid=4633806f-0efc-43e7-b208-dc9f8023f082-47 (sizing format A4 20x30cm , 7mm , 15€)
 
 https://www.ebay.fr/itm/1-4-Black-Acrylic-Plexiglas-Plastic-Sheet-8-x-12-For-DIY-Craft/264251149339 (13$ but delivery in US only)
 
@@ -120,17 +120,11 @@ https://www.tinytronics.nl/shop/nl/kabels/hdmi/hdmi-naar-micro-hdmi-kabel-2m
 
 https://www.cdiscount.com/high-tech/accessoires/cable-adaptateur-cd44587/f-1062802-auc5412810144587.html?idOffre=314083798#mpos=0|mp (7,29 €)
 
-- 6x - Pimodori Blinkt 8x RGB Leds  
-https://www.kiwi-electronics.nl/blinkt-voor-raspberry-pi?search=blinkt&description=true (7,5€)
-
-https://thepihut.com/products/blinkt (£6)
 
 - 3x - Female/Male 'Extension' Jumper Wires 40 pin - 30cm (or whatever cable length you need)  
 https://www.sossolutions.nl/824-premium-femalemale-extension-jumper-wires-40-x-12-300mm
 
-https://www.cdiscount.com/bricolage/electricite/fils-electriques-torons-conducteurs-31-cm-de-l/f-1661416-auc6439374938864.html#mpos=0|mp (16,96€)
-
-https://thepihut.com/collections/adafruit-prototyping/products/premium-female-male-extension-jumper-wires-20-x-12
+https://thepihut.com/collections/adafruit-prototyping/products/premium-female-male-extension-jumper-wires-20-x-12 (£ 3.50)
 
 - 6x - 40 Pins header connector 2x20p  
 https://www.tinytronics.nl/shop/nl/connectoren/pin-header/40-pins-header-connector-2x20p
@@ -140,7 +134,7 @@ https://www.tinytronics.nl/shop/nl/prototyping/printplaten/experimenteer-printpl
 
 https://fr.aliexpress.com/item/4000042328706.html or https://fr.aliexpress.com/item/4000032952031.html  
 
-- 1x - USB-A Extension Cable - 0,3m  
+- 1x - USB-A Male/Female Extension Cable - 0,3m  
 https://www.allekabels.nl/usb-verlengkabel/4965/1174323/usb-20-verlengkabel.html (1,49 €)
 
 ## Tools 
@@ -174,3 +168,7 @@ https://www.allekabels.nl/usb-verlengkabel/4965/1174323/usb-20-verlengkabel.html
 - HDMI 1,5m cable: https://www.cdiscount.com/high-tech/accessoires/continental-edison-cable-hdmi-2-0-1-5m-slim-4k-u/f-106280201-cehdmi150f14.html#mpos=0|cd (4,10 €)
 - Aluminium Raspberry Pi 4 Case  https://thepihut.com/collections/raspberry-pi-cases/products/aluminium-raspberry-pi-4-case?variant=31068306440254
 - Fan (6,99 €) https://www.amazon.com/dp/B07X9Z19XN/
+- 6x - Pimodori Blinkt 8x RGB Leds  
+- https://www.kiwi-electronics.nl/blinkt-voor-raspberry-pi?search=blinkt&description=true (7,5€)
+
+  https://thepihut.com/products/blinkt (£6)
