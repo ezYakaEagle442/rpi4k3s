@@ -99,6 +99,7 @@ FR Keyboard (17,95 €) https://www.kubii.fr/raspberry-pi-microbit/2572-clavier-
 
 wired mouse (8,5 €) https://www.kubii.fr/claviers-et-peripheriques-usb/2575-souris-filaire-officielle-raspberry-pi-kubii-3272496015364.html
 
+Adafruit BME280 I2C or SPI Temperature Humidity Pressure Sensor (£ 18.50) https://thepihut.com/products/adafruit-bme280-i2c-or-spi-temperature-humidity-pressure-sensor
 
 - 1x - Red Power Reset Button  
 https://www.tinytronics.nl/shop/nl/componenten/schakelaars/rode-drukknop-12mm-reset-pbs-33b
@@ -132,6 +133,8 @@ https://www.tinytronics.nl/shop/nl/connectoren/pin-header/40-pins-header-connect
 
 - 6x - Prototyping board - 2cmx8cm  
 https://www.tinytronics.nl/shop/nl/prototyping/printplaten/experimenteer-printplaat-2cm*8cm-dubbelzijdig
+
+https://fr.aliexpress.com/item/4000042328706.html or https://fr.aliexpress.com/item/4000032952031.html  
 
 - 1x - USB-A Extension Cable - 0,3m  
 https://www.allekabels.nl/usb-verlengkabel/4965/1174323/usb-20-verlengkabel.html (1,49 €)
