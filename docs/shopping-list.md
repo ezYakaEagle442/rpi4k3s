@@ -181,7 +181,8 @@ https://www.allekabels.nl/usb-verlengkabel/4965/1174323/usb-20-verlengkabel.html
 - Basic Hand Tools 
 - Wire Cutter
 - Stanley Knife 
-- Soldering Iron
+- Soldering Iron https://www.manomano.fr/p/k-sold2n-kit-de-soudage-electrique-44700 (12,65€)
+- Tin https://www.manomano.fr/p/bobine-detain-a-souder-multirex-05-mm-9638332?product_id=9959456 (10,95€)
 - Electrical Tape
 - Hot Glue Gun
 - Tie Wraps
@@ -200,6 +201,8 @@ https://www.allekabels.nl/usb-verlengkabel/4965/1174323/usb-20-verlengkabel.html
 - Cluster Case for Raspberry Pi (with Fans)  £ 10 https://thepihut.com/collections/raspberry-pi-cases/products/cluster-case-for-raspberry-pi
 - Raspberry Pi HAT Mounting Kit (11mm) (£ 1.49) https://thepihut.com/products/raspberry-pi-hat-mounting-kit
 - Pi Cam (56,80 €) https://www.kubii.fr/raspberry-pi-microbit/2950-camera-hq-officielle-3272496301474.html
+- Pi Cam HQ (55€) https://thepihut.com/collections/raspberry-pi-camera/products/raspberry-pi-high-quality-camera-module
+- Pi High Quality Camera Lens (55€) : https://thepihut.com/collections/raspberry-pi-camera/products/raspberry-pi-high-quality-camera-lens?variant=31811254222910
 - Pi Cam TriPod (£4) https://thepihut.com/products/flexible-camera-tripod 
 - ModMyPi Mini Camera Mount (£3) https://thepihut.com/products/modmypi-mini-camera-stand-no-lens 
 - USB Hub adaptor: https://www.cdiscount.com/informatique/clavier-souris-webcam/usb-c-hub-adaptateur-de-type-c-7-dans-une-station/f-107023705-auc0797772759440.html#mpos=0|mp (16,63€)
