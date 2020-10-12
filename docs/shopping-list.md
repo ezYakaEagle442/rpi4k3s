@@ -27,6 +27,9 @@ https://www.allekabels.nl/usb-30-kabel/4545/2269207/usb-30-c-verloopstekker.html
 
 https://www.conrad.fr/p/adaptateur-usb-31-gen-2-renkforce-rf-4410232-1x-usb-c-male-1x-usb-c-femelle-coude-a-90-vers-la-droite-1-pcs-2205116 7,99 € TTC
 
+https://cablematic.com/fr/produits/cable-de-reseau-de-categorie-6-cat6-rj45-angle-droit-utp-24awg-lan-de-25-cm-RJ091 (2,28 €)
+
+https://www.manomano.fr/catalogue/p/bematik-cable-de-reseau-de-categorie-6-cat6-rj45-angle-droit-ftp-24awg-lan-de-50-cm-13322624 (3€99)
 
 https://www.cdiscount.com/informatique/composants-informatiques/lot-de-2-adaptateur-usb-c-type-c-male-vers-femell/f-107130601-auc2008888288594.html#mpos=0|mp (7,56€ the pack of 2)
 
@@ -92,11 +95,18 @@ https://www.ebay.fr/itm/Plexiglas-Predecoupe-Gris-Fonce-Transp-GS-5-MM-/16290038
 https://www.cdiscount.com/maison/art-de-la-table/une-feuille-de-plexiglas-acrylique-noire-2025-3/f-11790-auc0001066664847.html?idOffre=381223861#mpos=0|mp (52€)
 
 
+- foam board to hide the background of the case under which the cables goes go the Switch and the Storage : 
+https://www.cultura.com/cart-mousse-noir-a3-5mm-cart-mousse-noir-a3-5mm-2001119001009.html (4,19 €)
+
+https://www.cultura.com/cart-mousse-noir-50x65-5mm-cart-mousse-noir-50x65-5mm-2001104771009.html
+
+https://www.creamousse.fr/carton-plume-noir-carton-mousse-noir-5mm-a4-21x297cm-408.html
+
+
 - Strong Velcro (for mounting components)  
 https://www.conrad.nl/p/tesa-on-off-55229-00-01-klittenband-om-vast-te-plakken-haak-en-lusdeel-extra-sterk-l-x-b-1000-mm-x-50-mm-zwart-1-s-546887?WT.mc_id=gshop&gclid=Cj0KCQiA7aPyBRChARIsAJfWCgLEcS1wBj_JcCGlNRCYhwnPJhIA7AIMhkRe_ID_Tt7UgaBbJBoDqL0aAlJCEALw_wcB&tid=1457103019_71473162759_aud-383852685358:pla-775116211808_pla-546887&WT.srch=1&vat=true&insert_kz=8J (15,49€)
 
 https://www.conrad.fr/p/bande-auto-agrippante-tesa-on-off-55229-00-01-55229-00-01-a-coller-partie-velours-et-partie-agrippante-extra-fort-l-546887 12,49 € TTC
-
 
 https://www.manomano.fr/p/bande-extra-forte-1m-x-50mm-noir-6431491 (20,60€)
 
@@ -113,7 +123,9 @@ https://www.kubii.fr/cartes-raspberry-pi/2955-raspberry-pi-4-modele-b-8gb-076575
 - 6x - Dual Fan Heat sink  
 https://www.kiwi-electronics.nl/kw-2546?search=cooling&description=true
 
-5V Fan for Raspberry Pi https://thepihut.com/products/miniature-5v-cooling-fan-for-raspberry-pi-and-other-computers (£3)
+Aluminium Armour Heatsink Case https://thepihut.com/products/dual-fan-heatsink-case-for-raspberry-pi-4?variant=20679594180670 (£ 14)
+
+better than the 5V Fan for Raspberry Pi https://thepihut.com/products/miniature-5v-cooling-fan-for-raspberry-pi-and-other-computers (£3)
 
 ### Storage
 - 1x - Sandisk Ultra 32GB   
@@ -132,6 +144,8 @@ https://www.inmac-wstore.com/sandisk-extreme-disque-ssd-500-go-usb-3-1-gen-2/p71
 https://www.manomano.fr/catalogue/p/sandisk-extreme-500go-gris-orange-sdssde60-500g-g25-17097664?model_id=17097481 (172 €)
 
 ### Input
+- Official Raspberry Pi Keyboard & Mouse (£ 22) https://thepihut.com/products/official-raspberry-pi-keyboard-mouse?variant=19217195139134
+
 - 1x - Wireless Keyboard & Mouse  
 https://www.tinytronics.nl/shop/index.php?route=product/product&product_id=1504
 
@@ -147,6 +161,9 @@ https://www.tinytronics.nl/shop/nl/componenten/schakelaars/rode-drukknop-12mm-re
 ### Output
 
 - 1x - Waveshare 7 inch HDMI TFT-LCD Touchscreen  
+
+https://thepihut.com/collections/raspberry-pi-screens/products/official-raspberry-pi-7-touchscreen-display (£ 60)
+
 https://www.tinytronics.nl/shop/index.php?route=product/product&product_id=1758
 
 ETEPON for Raspberry Pi 4 screen, IPS HDMI 7 inchs Monitor - LCD screen 1024 * 600 HD (90€): https://www.cdiscount.com/informatique/ecrans-informatiques/etepon-pour-ecran-raspberry-pi-4-moniteur-tactile/f-10732-auc8414768789121.html#desc
