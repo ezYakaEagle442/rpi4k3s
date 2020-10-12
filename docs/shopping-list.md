@@ -1,6 +1,6 @@
 # Shopping list
-The product links are the ones I used for here in the Netherlands. Some websites might be in Dutch, but you can still use the picture as a reference. 
-
+The product links are the ones I used for here in France . Some websites might be in French, English, or Dutch, but you can still use the picture as a reference. 
+,
 ### Power
 - 1x - Anker PowerPort 10  
 https://www.conrad.nl/p/anker-powerport-10-a2133311-usb-laadstation-thuis-uitgangsstroom-max-12000-ma-10-x-usb-1672845
