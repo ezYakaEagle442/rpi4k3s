@@ -105,3 +105,10 @@ Syncing disks.
 sudo mkfs.ext4 /dev/sda1
 ```
 This might take a couple of minutes and then were done with these steps. 
+
+
+
+RaspberryPi storage doc :
+https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md
+
+https://www.raspberrypi.org/documentation/configuration/external-storage.md

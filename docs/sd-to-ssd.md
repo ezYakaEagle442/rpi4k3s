@@ -6,13 +6,13 @@ In this guide I will show you how to move your root file system from the SD card
 This guide contains 3 seperately usable guides, so I will split them up. This way it's also not a verty long read. :) 
 
 ### Prepare SSD and format to ext4
-Go to: [Prepare SSD](https://github.com/Sheldonwl/rpi-travel-case/blob/master/docs/format-sd.md)  
+Go to: [Prepare SSD](./format-sd.md)  
 
 ### Copy bootfs and rootfs from SD to SSD
-Go to: [Copy file system](https://github.com/Sheldonwl/rpi-travel-case/blob/master/docs/copy-fs.md)  
+Go to: [Copy file system](./copy-fs.md)  
 
 ### Resize SSD with data retention
-Go to: [Resize SSD](https://github.com/Sheldonwl/rpi-travel-case/blob/master/docs/resize-partition.md)  
+Go to: [Resize SSD](./resize-partition.md)  
 
 
 # Sources:  
@@ -26,3 +26,9 @@ https://www.element14.com/community/community/raspberry-pi/blog/2019/08/30/quick
 
 Resize partition (Step: Reduce a Partition and Filesystem):  
 https://geekpeek.net/resize-filesystem-fdisk-resize2fs/ 
+
+RaspberryPi storage doc :
+https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md
+
+https://www.raspberrypi.org/documentation/configuration/external-storage.md
+
