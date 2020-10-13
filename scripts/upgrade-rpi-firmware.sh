@@ -8,8 +8,10 @@ sudo apt-get update
 # Upgrade all packages
 sudo apt-get upgrade -y
 
-# Download the Raspberry Pi's BETA firmware
-wget https://github.com/raspberrypi/rpi-eeprom/raw/master/firmware/beta/pieeprom-2020-01-17.bin
+# Download the Raspberry Pi's Stable firmware
+wget https://github.com/raspberrypi/rpi-eeprom/blob/master/firmware/stable/pieeprom-2020-09-03.bin
+# wget https://github.com/raspberrypi/rpi-eeprom/raw/master/firmware/beta/pieeprom-2020-01-17.bin
+
 
 # Pull the boot config and write it to bootconf.txt
 rpi-eeprom-config pieeprom-2020-01-17.bin > bootconf.txt

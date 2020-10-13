@@ -10,8 +10,8 @@ With the following commands you will install git and access a script that will d
 ```
 sudo apt update
 sudo apt install git -y
-git clone https://github.com/Sheldonwl/rpi-travel-case/
-source rpi-travel-case/scripts/upgrade-rpi-firmware.sh
+git clone https://github.com/ezYakaEagle442/rpi4k3s
+source rpi4k3s/scripts/upgrade-rpi-firmware.sh
 ```
 The final output will be from **cat /proc/cpuinfo** in the script. This prints out information about the Pi. Write down the last 8 characters of the Pi's serial number, as we will need that for the TFTP directories. 
 After running the upgrade script, reboot the Pi (**sudo reboot**). After the reboot, you can check the bootloader config with: 

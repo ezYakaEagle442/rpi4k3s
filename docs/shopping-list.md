@@ -163,6 +163,7 @@ https://www.tinytronics.nl/shop/nl/componenten/schakelaars/rode-drukknop-12mm-re
 - 1x - Waveshare 7 inch HDMI TFT-LCD Touchscreen  
 
 https://thepihut.com/collections/raspberry-pi-screens/products/official-raspberry-pi-7-touchscreen-display (£ 60)
+https://thepihut.com/products/hdmi-7-1024x600-lcd-touch-screen-and-case?variant=20063093555262 (£ 54)
 
 https://www.tinytronics.nl/shop/index.php?route=product/product&product_id=1758
 
@@ -230,3 +231,6 @@ https://www.allekabels.nl/usb-verlengkabel/4965/1174323/usb-20-verlengkabel.html
 - https://www.kiwi-electronics.nl/blinkt-voor-raspberry-pi?search=blinkt&description=true (7,5€)
 
   https://thepihut.com/products/blinkt (£6)
+
+
+![Alt text](./images/shopping.jpg?raw=true "Time to unpack your shopping !")

@@ -24,6 +24,10 @@ https://www.tomshardware.com/news/boot-raspberry-pi-from-usb,39782.html
 Easy SD to SSD file copy:  
 https://www.element14.com/community/community/raspberry-pi/blog/2019/08/30/quick-sd-to-ssd-on-the-pi-4  
 
+You can get an SDCard formatter from https://www.sdcard.org/downloads/formatter 
+
+Get exFAT support : https://pimylifeup.com/raspberry-pi-exfat 
+
 Resize partition (Step: Reduce a Partition and Filesystem):  
 https://geekpeek.net/resize-filesystem-fdisk-resize2fs/ 
 

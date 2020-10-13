@@ -6,7 +6,14 @@
 ## Configure Waveshare TFT-LCD Touchscreen
 Before we insert the newly flashed SD card in the Pi, we will first edit the **config.txt** file on the SD card. Add the following to the config: 
 ```
-max_usb_current=1
+# https://www.raspberrypi.org/documentation/configuration/config-txt/README.md
+
+# https://www.raspberrypi.org/documentation/configuration/config-txt/misc.md: 
+# This command is now deprecated and has no effect. Originally certain models of Raspberry Pi limited the USB ports to a maximum of 600mA. 
+# Setting max_usb_current=1 changed this default to 1200mA. However, all firmware now has this flag set by default, so it is no longer necessary to use this option.
+# max_usb_current=1
+
+# https://www.raspberrypi.org/documentation/configuration/config-txt/video.md
 hdmi_group=2
 hdmi_mode=87
 hdmi_cvt 1024 600 60 6 0 0 0
@@ -18,7 +25,7 @@ You can check if this is still needed by going to the info page for this screen.
 Now insert the SD card (in a powered off Pi) and connect the power. 
 
 ## Setup Pi
-Ones the Pi has booted up, you will see the Desktop (if the full image is used).  
+Ones the Pi has booted up (it sshould takes arond ~10 minutes), you will see the Desktop (if the full image is used).  
 Go through the default settings. Country/Language etc. Change password. Enable WiFi.  
 Before restarting go to Preferences -> Raspberry Pi Configuration -> Interfaces -> and enable ssh.  
 Now reboot your Pi.

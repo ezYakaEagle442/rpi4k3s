@@ -7,10 +7,11 @@ Some important notes about Rancher/K3s:
 2. You can import K3s clusters into an external Rancher, but the Rancher server components do not run on armv7, as that is 32 bit. The latest Raspberry Pi's actually have 64 bit hardware, but the Raspbian Buster image is 32 bit. So, as long as you put a 64 bit OS on the Pi, you can import that K3s cluster into an external Rancher management server. 
 ```
 
-
 This repository contains all info needed to recreate my Raspberry Pi Travel Case. This travel case was created to demo K3s and consists of 6 Raspberry Pi 4B's, a 7" Touchscreen, 500GB SSD. The setup consists of a Server and 5 clients. With PXE boot the clients netboot of the server. 
 
 For more info on K3s, checkout: https://k3s.io  
+
+**/!\ Internet access is required to update OS packages and to get K3S from GitHub**
 
 ## Shopping list
 Go to: [Shopping list](./docs/shopping-list.md)  
@@ -51,5 +52,5 @@ See [https://www.raspberrypi.org/documentation/configuration/camera.md](https://
 - [https://www.jeffgeerling.com/blog/2019/raspberry-pi-4-needs-fan-heres-why-and-how-you-can-add-one](https://www.jeffgeerling.com/blog/2019/raspberry-pi-4-needs-fan-heres-why-and-how-you-can-add-one)
 - [https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-blinkt](https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-blinkt)
 - [https://raspberrytips.com/install-heat-sinks-raspberry-pi](https://raspberrytips.com/install-heat-sinks-raspberry-pi)
-
+- https://www.makeuseof.com/tag/raspberry-pi-wont-boot-fix 
  

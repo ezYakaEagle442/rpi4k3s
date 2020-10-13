@@ -64,3 +64,8 @@ curl -sfL https://get.k3s.io | K3S_TOKEN=${NODE_TOKEN} K3S_URL=https://192.168.3
 This adds a couple of args that give faster updates to the kube api. If you remember, we altered the node-controller to poll the nodes every 10 seconds, so we need to give faster updates from the nodes as well. 
 
 Checkout the K3s docs if you need to edit any args: https://rancher.com/docs/k3s/latest/en/installation/install-options/
+
+
+Extra docs :
+
+https://medium.com/@marco.mezzaro/k3s-on-synology-what-if-it-works-e980b4b09fcb
