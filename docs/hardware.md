@@ -17,3 +17,11 @@
 **Attach the following pins**  
 3 - Output pin  
 20 - Ground  
+
+
+https://www.raspberrypi.org/documentation/usage/gpio/README.md
+
+
+https://www.raspberrypi.org/documentation/hardware/raspberrypi/datasheets.md
+
+https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2711/rpi_DATA_2711_1p0.pdf
